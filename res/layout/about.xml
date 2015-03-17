@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+    <TextView android:id="@+id/textView1" android:layout_width="wrap_content" android:layout_height="wrap_content"  android:text="      软件介绍 ColorfulWorld是一款增强现实软件，通过虚拟信息与现实世界的叠加，达到增强现实的效果。只需要将手机的摄像头对准建筑物，就能在手机的屏幕下方看到与这栋建筑物相关的、精确的现实数据。"></TextView>
+    
+</LinearLayout>
