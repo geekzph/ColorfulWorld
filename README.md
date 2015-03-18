@@ -1,4 +1,4 @@
-# ColorfulWorld
+# ColorfulWorld by geekzph
 AR software  
 ColorfulWorld是一款帮助你探索周围世界的手机应用。通过使用增强现实技术将虚拟信息和现实世界进行叠加，从而达到增强现实的效果。用户只需要将手机的摄像头对准周围的建筑物或者开放空间，就能在手机屏幕下方看到与之相关的现实数据。
 使用方法
